@@ -21,7 +21,7 @@
 ###
 
 <p align="left">
-  <img alt="Instagram" src="./.github/assets/instagram-preview.gif">
+  <img alt="Instagram" src="instagram-preview.gif">
 </p>
 
 ### Tools used:
